@@ -57,5 +57,14 @@ Projeto Final QuantumFinance
     └── plots.py                <- Code to create visualizations
 ```
 
+## Config Template Cookiecutter
+
+python -m pip install --user pipx
+python -m pipx ensurepath
+
+pipx install cookiecutter-data-science
+
+ccds (Na pasta onde quer criar o projeto)
+
 --------
 
