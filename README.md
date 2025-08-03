@@ -6,12 +6,11 @@ onde tem como objetivo criar um fuxo end-to-end da analise para um sore de credi
 Nele contempla desde a analise do <a target="_blank" href="https://www.kaggle.com/datasets/parisrohan/credit-score-classification">dataset<a/> 
 para pré-processamento e criação do modelo preditivo até a disponibilização de um frontend para consumo deste modelo.
 
-Neste repositorio (fiap-ds-mlops-9dtsr-credit-scoring) temos toda a estrutura de modelagem, construção e versionamento dos
-dados e o seu notebook.
-
-Projeto Final QuantumFinance
 
 ## Project Organization
+
+Neste repositorio (fiap-ds-mlops-9dtsr-credit-scoring) temos toda a estrutura de modelagem, construção e versionamento dos
+dados e o seu notebook.
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
