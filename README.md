@@ -1,8 +1,13 @@
-# fiap-ds-mlops-9dtsr-credit-scoring
+# Projeto Final QuantumFinance Credit Scoring - MLOps - 9dtsr 2025
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+Este é uma projeto realizado como parte final da entrega da disciplica de Machine Learning Engineering - MLOps, 
+onde tem como objetivo criar um fuxo end-to-end da analise para um sore de credito do cliente da QuantumFinance.
+
+Nele contempla desde a analise do <a target="_blank" href="https://www.kaggle.com/datasets/parisrohan/credit-score-classification">dataset<a/> 
+para pré-processamento e criação do modelo preditivo até a disponibilização de um frontend para consumo deste modelo.
+
+Neste repositorio (fiap-ds-mlops-9dtsr-credit-scoring) temos toda a estrutura de modelagem, construção e versionamento dos
+dados e o seu notebook.
 
 Projeto Final QuantumFinance
 
